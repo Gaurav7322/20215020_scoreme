@@ -35,6 +35,3 @@ Extracted Excel files are saved in a separate output folder
 
 After processing, extracted tables are saved as Excel files in the output/ folder, each sheet containing a table from the PDF.
 
-🤝 Contributing
-
-Feel free to fork this repository and improve the extraction logic. Contributions are welcome!
