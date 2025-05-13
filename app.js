@@ -52,7 +52,7 @@ export default function App()
         }
     };
 
-    const handleBookSlot = (slot) =>{
+    const handleBookSlot = ( slot) =>{
         if(!book.includes(slot))
         {
             setBook([...book, slot]);
